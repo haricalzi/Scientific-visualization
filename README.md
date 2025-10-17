@@ -1,9 +1,9 @@
 # Scientific-visualization
 
-## Project 1: data clustering
-[Dataset](https://archive-beta.ics.uci.edu/dataset/519/heart+failure+clinical+records) for the **heart failure clustering**.
-
-[Python Notebook](https://github.com/haricalzi/Scientific-visualization/blob/main/heart_failure_clustering.ipynb) for the **heart failure clustering**.
+## Project 1: data clustering of heart failure data
+- [Assignment]() given by the Professor
+- Heart Failure [Dataset](https://archive-beta.ics.uci.edu/dataset/519/heart+failure+clinical+records)
+- Solution in a [Python Notebook](https://github.com/haricalzi/Scientific-visualization/blob/main/heart_failure_clustering.ipynb)
 
 ---
 
