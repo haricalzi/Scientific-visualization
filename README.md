@@ -1,4 +1,4 @@
-# Scientific-visualization
+# Multi-omics data integration and machine learning for complex disease subtyping
 
 ## Project 1: clustering of heart failure data
 - [Assignment](https://github.com/haricalzi/Scientific-visualization/blob/main/Project1_Clustering/cluster_ass.pdf) given by the Professor
