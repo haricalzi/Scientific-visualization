@@ -1,5 +1,7 @@
 # Multi-omics data integration and machine learning for complex disease subtyping
 
+Developed computational workflows for the integration of multi-view omics data to improve patient stratification. The project applies also clustering and classification techniques to clinical and molecular datasets to identify biological patterns and characterize subtypes in complex diseases.
+
 ## Project 1: clustering of heart failure data
 - [Assignment](https://github.com/haricalzi/Scientific-visualization/blob/main/Project1_Clustering/cluster_ass.pdf) given by the Professor
 - Heart Failure [Dataset](https://archive-beta.ics.uci.edu/dataset/519/heart+failure+clinical+records)
